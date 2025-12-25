@@ -1,0 +1,1 @@
+![Fuchsia Desktop](preview.png)
